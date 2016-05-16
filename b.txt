@@ -1,7 +1,0 @@
-<xml><ToUserName><![CDATA[gh_16e01560472a]]></ToUserName>
-<FromUserName><![CDATA[o4sPNw1R8VhNbt2p2IEmiKs9aagU]]></FromUserName>
-<CreateTime>1447299579</CreateTime>
-<MsgType><![CDATA[text]]></MsgType>
-<Content><![CDATA[php]]></Content>
-<MsgId>6216104360315781740</MsgId>
-</xml>
