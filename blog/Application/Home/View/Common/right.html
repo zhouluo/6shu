@@ -1,0 +1,118 @@
+<div class="sidebar">
+               
+                        
+                      <div class="separator" style="height:31px;"></div>
+                        
+                        <div class="block_popular_posts">
+                        	<h4>热门文章</h4>
+                            <volist name="newlist" id="vo">
+                        	<div class="article">
+
+								<div class="text">
+									<p class="title"><a href="/na/id/{$vo['id']}.html">{$vo['title']}</a></p>
+									<div class="date"><p>{:date('d M,Y',$vo['addtime'])}</p></div>
+                                    <div class="icons">
+                                    	<ul>
+                                        	<li><a href="#" class="views">41</a></li>
+                                            <li><a href="#" class="comments">22</a></li>
+                                        </ul>
+                                    </div>
+								</div>
+							</div>
+							<div class="line_3"></div>
+                            </volist>
+                        </div>
+                        
+                        <div class="separator" style="height:31px;"></div>
+                        
+                        <div class="block_popular_stuff">
+                        	<h4>视频推荐 </h4>
+                            
+                            <div class="content">
+                            	<a href="#" class="view_all">全部视频</a>
+                            	<div class="media"><a href="http://www.youtube.com/watch?v=ySIvism2af8" class="general_pic_hover play no_fx" data-rel="prettyPhoto" title="Popular Video"><img src="__PUBLIC__/theme/images/pic_pop_video.jpg" alt="" /></a></div>
+                                <p><a href="blog_post_w_video.html">快来看看美女的视频吧，看看性感的视频，看看美女</a> <img src="__PUBLIC__/theme/images/icon_video.gif" alt="" /></p>
+                                <p class="date">11 July, 2012</p>
+                            </div>
+                            
+                            <div class="info">
+                            	<ul>
+                                	<li class="comments"><a href="#">115</a></li>
+                                    <li class="views"><a href="#">220</a></li>
+                                </ul>
+                            </div>
+                            
+                            <div class="clearboth"></div>
+                            
+                            <div class="line_2"></div>
+                        </div>
+                        
+                        <div class="separator" style="height:31px;"></div>
+                        
+                        <div class="block_calendar">
+                        	<h4>Calendar</h4>
+                            
+                            <div class="calendar" id="calendar_sidebar">
+                            </div>
+                            
+                            <script type="text/javascript">
+								var today = new Date();
+								var date = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getDate();
+								$('#calendar_sidebar').DatePicker({
+									flat : true,
+									date : date,
+									calendars : 1,
+									starts : 1,
+									locale : {
+										days : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+										daysShort : ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+										daysMin : ['S', 'M', 'T', 'W', 'T', 'F', 'S', 'S'],
+										months : ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+										monthsShort : ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+										weekMin : 'wk'
+									}
+								});
+							</script>
+                            
+                            <div class="line_2"></div>
+                        </div>
+                        
+                        <div class="separator" style="height:31px;"></div>
+
+                        
+                        <div class="block_popular_stuff">
+                        	<h4>美丽图片</h4>
+                            
+                            <div class="content">
+                            	<a href="#" class="view_all">查看所以</a>
+                            	<div class="media"><a href="images/pic_pop_photo_big.jpg" class="general_pic_hover zoom no_fx" data-rel="prettyPhoto" title="Popular Photo"><img src="__PUBLIC__/theme/images/pic_pop_photo.jpg" alt="" /></a></div>
+                                <p><a href="http://www.osblog.net/template/394.html">wordpress企业展示博客模版wordpress企业展示博客模版</a> <img src="__PUBLIC__/theme/images/icon_photo.gif" alt="" /></p>
+                                <p class="date">11 July, 2012</p>
+                            </div>
+                            
+                            <div class="info">
+                            	<ul>
+                                	<li class="comments"><a href="#">100</a></li>
+                                    <li class="views"><a href="#">134</a></li>
+                                </ul>
+                            </div>
+                            
+                            <div class="clearboth"></div>
+                            
+                            <div class="line_2"></div>
+                        </div>
+                        
+                      	<div class="separator" style="height:31px;"></div>
+                        
+                        <div class="block_newsletter">
+                        	<h4>邮件订阅</h4>
+                            
+                            <form action="#" />
+                            	<div class="field"><input type="text" class="w_def_text" title="Enter Your Email Addres" /></div>
+                                <input type="submit" class="button" value="Subscribe" />
+                                
+                                <div class="clearboth"></div>
+                            </form>
+                        </div>
+                        
+                    </div>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<include file='Common:head'/>
+</head>
+<style>
+    .pages a{float: left}
+    .pages span{width: 19px;height: 19px;line-height: 19px;display: block;position: relative;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;color: #6b6b6b;float: left}
+    .current{border: 1px solid #e3e3e3;color: #3e3e3e;}
+</style>
+<body>
+	<div class="wrapper sticky_footer">
+
+    	<include file='Common:header'/>
+        
+        <!-- CONTENT BEGIN -->
+        <div id="content" class="right_sidebar">
+        	<div class="inner">
+            	<div class="general_content">
+                	<div class="main_content">
+
+                        <div class="block_blog_1">
+                            <volist name="list" id="v">
+                        	<article class="blog_post">
+                            	<div class="tail"></div>
+                                <h4 class="title"><a href="/na/id/{$v['id']}.html">{$v['title']}</a></h4>
+                                
+                                <div class="info">
+                                	<div class="date"><p>{$v['time']}</p></div>
+                                    <div class="author"><p>作者: <a href="#">{$v['author']}</a></p></div>
+                                    
+                                    <div class="r_part">
+                                    <div class="category">
+                                        	<p class="text">目录:</p>
+                                            <ul>
+                                            	<li><a href="#">{$v['cate']}</a></li>
+                                            </ul>
+                                        </div>
+                                        
+                                        <a href="#" class="views">{$v['countclick']}</a>
+                                        <a href="#" class="comments">25</a>
+                                    </div>
+                                </div>
+                                
+                                <div class="content">
+                                	<p>{$v['content']|iconv_substr=0,200,'utf-8'}</p>
+                                </div>
+                                
+                            </article>
+                            </volist>
+
+                        </div>
+                        
+                        <div class="line_2" style="margin:24px 0px 25px;"></div>
+                        
+                        <div class="block_pager">
+                            <div class="pages">
+                                {$page}
+                            </div>
+                            <div class="clearboth"></div>
+                        </div>
+                        
+                    </div>
+
+                    <include file='Common:right'/>
+                    
+                    
+                	<div class="clearboth"></div>
+                </div>
+            </div>
+        </div>
+    	<!-- CONTENT END -->
+        
+        <!-- FOOTER BEGIN -->
+        <include file='Common:footer'/>
+        <!-- FOOTER END -->
+    </div>
+    
+</body>
+</html>

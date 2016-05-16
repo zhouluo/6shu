@@ -1,0 +1,49 @@
+<aside>
+
+       
+    <div class="rnav">
+       <volist name="cates" id="v">
+            <li class="rnav{$v['id']}"><a href="/n/id/{$v['id']}.html">{$v['catename']}</a></li>
+        </volist>
+    </div>
+
+    <div class="ph_news">
+        <h2>
+            <p>点击排行</p>
+        </h2>
+        <ul class="ph_n">
+            <volist name="click" id="vo" key="k" >
+                <li>
+                    <if condition="$k elt 3">
+                        <span class="num1">
+                    <else />
+                        <span>
+                    </if>
+                    {$k}</span>
+                    <a href="/na/id/{$vo['id']}.html">{$vo['title']}</a></li>
+            </volist>
+            
+
+        </ul>
+        <h2>
+            <p>栏目推荐</p>
+        </h2>
+        <ul>
+            <volist name="tuijian" id="vo">
+              <li><a href="/na/id/{$vo['id']}.html">{$vo['title']}</a></li>
+            </volist>
+        </ul>
+
+        <h2>
+            <p>最新评论</p>
+            <!-- UYAN NEW COMMENT BEGIN -->
+            <div id="uyan_newcmt_unit"></div>
+
+            <!-- UYAN NEW COMMENT END -->
+        </h2>
+    </div>
+    <include file='Common:footer'/>
+</aside>
+<script src="/Public/js/silder.js"></script>
+<div class="clear"></div>
+<!-- 清除浮动 -->

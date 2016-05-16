@@ -1,0 +1,634 @@
+[ 2016-01-14T12:20:24+08:00 ] 127.0.0.1 /index.php/Blogsysemty/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000500s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-01-14T12:20:24+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:25+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-14T12:20:26+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:26+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:26+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:26+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:26+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:27+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:27+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:27+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:20:27+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:12+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-14T12:21:13+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:13+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-14T12:21:13+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:13+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484?1452745273708
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:13+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484?1452745273708?1452745273924
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:14+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484?1452745273708?1452745273924?1452745274124
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:14+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484?1452745273708?1452745273924?1452745274124?1452745274333
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:14+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484?1452745273708?1452745273924?1452745274124?1452745274333?1452745274509
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:14+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484?1452745273708?1452745273924?1452745274124?1452745274333?1452745274509?1452745274692
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-01-14T12:21:14+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484?1452745273708?1452745273924?1452745274124?1452745274333?1452745274509?1452745274692?1452745274908
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T12:21:15+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html?1452745225782?1452745226030?1452745226238?1452745226430?1452745226638?1452745226838?1452745227038?1452745227254?1452745227454?1452745227614?1452745272828?1452745273068?1452745273276?1452745273484?1452745273708?1452745273924?1452745274124?1452745274333?1452745274509?1452745274692?1452745274908?1452745275116
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:08:13+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\blog\ThinkPHP\ThinkPHP\Common\functions.php 第 1272 行.
+
+[ 2016-01-14T14:08:13+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:08:13+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:08:28+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-01-14T14:09:23+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:09:29+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:09:29+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:09:36+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `blog_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `blog_user` SET `login_ip`='127.0.0.1' WHERE `id` = 1 [ RunTime:0.0080s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-01-14T14:09:37+08:00 ] 127.0.0.1 /Blogsysemty/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-01-14T14:10:08+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\blog\ThinkPHP\ThinkPHP\Common\functions.php 第 1272 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:10:14+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Index/typography.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\blog\ThinkPHP\ThinkPHP\Common\functions.php 第 1272 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:10:17+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Message/jqgrid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\blog\ThinkPHP\ThinkPHP\Common\functions.php 第 1272 行.
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `blog_message`  [ RunTime:0.0010s ]
+
+[ 2016-01-14T14:10:21+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Friendlink/friendlink_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\blog\ThinkPHP\ThinkPHP\Common\functions.php 第 1272 行.
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `blog_friendlink` ORDER BY addtime DESC  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: client_arr D:\phpStudy\blog\Runtime\Cache\Blogsysemty\08d9951d16316c78788e7199a52c0540.php 第 683 行.
+NOTIC: [8] Undefined variable: client_arr D:\phpStudy\blog\Runtime\Cache\Blogsysemty\08d9951d16316c78788e7199a52c0540.php 第 684 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T14:10:26+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Article/articlelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\blog\ThinkPHP\ThinkPHP\Common\functions.php 第 1272 行.
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article`  [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '2' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '3' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '4' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '5' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '6' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '7' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '8' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '9' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '10' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '11' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '12' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '13' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '14' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '15' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '16' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '17' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '18' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '19' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '20' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '21' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '22' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '23' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '24' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '25' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '26' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '27' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '28' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '29' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '30' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '31' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '32' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '33' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '34' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '35' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-01-14T14:10:28+08:00 ] 127.0.0.1 /Blogsysemtyadmin.php/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\blog\ThinkPHP\ThinkPHP\Common\functions.php 第 1272 行.
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2016-01-14T15:20:49+08:00 ] 127.0.0.1 /blogsysemtyadmin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-01-14T15:20:49+08:00 ] 127.0.0.1 /blogsysemtyadmin.php/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

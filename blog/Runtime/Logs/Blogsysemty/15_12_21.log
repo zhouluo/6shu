@@ -1,0 +1,863 @@
+[ 2015-12-21T09:19:44+08:00 ] 127.0.0.1 /index.php/Blogsysemty/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T09:19:44+08:00 ] 127.0.0.1 /index.php/Blogsysemty/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T09:19:44+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T09:19:50+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `blog_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `blog_user` SET `login_ip`='127.0.0.1' WHERE `id` = 3 [ RunTime:0.0000s ]
+
+[ 2015-12-21T09:19:50+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-12-21T09:26:51+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-21T09:29:21+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_upload` ORDER BY addtime desc  [ RunTime:0.0000s ]
+
+[ 2015-12-21T09:31:11+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'
+
+[ 2015-12-21T09:31:23+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT `pid` FROM `blog_upload` ORDER BY addtime desc LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-12-21T09:31:40+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0070s ]
+SQL: SELECT `pid` FROM `blog_upload` ORDER BY addtime desc LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-12-21T09:32:02+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT `pid`,`imgurl` FROM `blog_upload` ORDER BY addtime desc  [ RunTime:0.0000s ]
+
+[ 2015-12-21T09:35:26+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT `pid`,`imgurl` FROM `blog_upload` ORDER BY addtime desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2015-12-21T09:37:15+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0060s ]
+SQL: SELECT `pid`,`imgurl` FROM `blog_upload` ORDER BY addtime desc  [ RunTime:0.0010s ]
+
+[ 2015-12-21T09:37:41+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `blog_upload` ORDER BY addtime desc  [ RunTime:0.0000s ]
+
+[ 2015-12-21T09:37:49+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `blog_upload` ORDER BY addtime desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T09:38:52+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2015-12-21T09:38:59+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/ajaximgupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0020s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+SQL: INSERT INTO `blog_upload` (`imgurl`,`filesize`,`fileext`,`width`,`height`,`addtime`,`username`,`ip`) VALUES ('/uploadfiles/images/2015-12-21/thumb_567758337329e.jpg','67245','jpg','242','163','1450661939','zhou','127.0.0.1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T09:39:04+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T09:39:12+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/ajaximgupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0060s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+SQL: INSERT INTO `blog_upload` (`imgurl`,`filesize`,`fileext`,`width`,`height`,`addtime`,`username`,`ip`) VALUES ('/uploadfiles/images/2015-12-21/thumb_5677584016b43.jpg','270271','jpg','242','163','1450661952','zhou','127.0.0.1') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T09:39:17+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_upload` ORDER BY addtime desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-21T09:58:58+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_upload` ORDER BY addtime desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T10:00:00+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/articlelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `blog_article`  [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '2' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '3' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '4' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '5' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '6' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '7' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '8' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '9' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '10' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '11' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T10:00:11+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/articlelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `blog_article`  [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '1' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '2' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '3' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '4' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '5' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '6' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '7' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '8' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '9' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '10' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '11' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T10:00:17+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Message/jqgrid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_message`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-21T10:01:04+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Message/jqgrid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `blog_message`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T10:18:13+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Message/jqgrid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `blog_message`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T10:18:18+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/articlelist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `blog_article`  [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '2' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '3' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '4' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '5' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '6' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '7' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '8' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '9' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '10' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '11' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T10:18:25+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-21T10:18:53+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0070s ]
+SQL: INSERT INTO `blog_article` (`title`,`sort`,`author`,`cate`,`countclick`,`addtime`) VALUES ('dfg','255','多废话多废话','1','100','1450664333') [ RunTime:0.0010s ]
+SQL: INSERT INTO `blog_article_content` (`content`,`id`) VALUES ('&lt;p&gt;asasfdasf&lt;br/&gt;&lt;/p&gt;','12') [ RunTime:0.0010s ]
+SQL: UPDATE `blog_upload` SET `itemid`='12' WHERE `pid` = 0 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T10:18:54+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0100s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T10:19:34+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2015-12-21T10:19:54+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0080s ]
+SQL: INSERT INTO `blog_article` (`title`,`sort`,`author`,`cate`,`hot`,`countclick`,`addtime`) VALUES ('专辑专辑','255','zhou','3','2','99','1450664394') [ RunTime:0.0010s ]
+SQL: INSERT INTO `blog_article_content` (`content`,`id`) VALUES ('&lt;p&gt;sdgsdgsdf&lt;br/&gt;&lt;/p&gt;','13') [ RunTime:0.0000s ]
+SQL: UPDATE `blog_upload` SET `itemid`='13' WHERE `pid` = 0 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T10:19:56+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T11:53:11+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-21T11:53:36+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/ajaximgupload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0090s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\phpStudy\blog\ThinkPHP\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+SQL: INSERT INTO `blog_upload` (`imgurl`,`filesize`,`fileext`,`width`,`height`,`addtime`,`username`,`ip`) VALUES ('/uploadfiles/images/2015-12-21/thumb_567777bf6e4e2.gif','208601','gif','242','163','1450670016','zhou','127.0.0.1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T11:53:48+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0020s ]
+SQL: INSERT INTO `blog_article` (`title`,`sort`,`author`,`cate`,`hot`,`countclick`,`addtime`) VALUES ('测试删除图片','255','zhou','3','1','44','1450670028') [ RunTime:0.0120s ]
+SQL: INSERT INTO `blog_article_content` (`content`,`id`) VALUES ('<p>werwer测试删除图片测试删除图片测试删除图片</p>','14') [ RunTime:0.0000s ]
+SQL: UPDATE `blog_upload` SET `itemid`='14' WHERE `pid` = 23 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-21T11:53:50+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Article/addarticle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `blog_article_cate`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T14:13:40+08:00 ] 127.0.0.1 /index.php/Blogsysemty/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2015-12-21T14:13:40+08:00 ] 127.0.0.1 /index.php/Blogsysemty/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T14:13:41+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-21T14:13:45+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `blog_user` WHERE `username` = 'zhou' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `blog_user` SET `login_ip`='127.0.0.1' WHERE `id` = 3 [ RunTime:0.0000s ]
+
+[ 2015-12-21T14:13:45+08:00 ] 127.0.0.1 /index.php/Blogsysemty/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+

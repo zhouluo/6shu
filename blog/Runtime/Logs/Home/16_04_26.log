@@ -1,0 +1,390 @@
+[ 2016-04-26T09:25:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `blog_friendlink`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `blog_article` ORDER BY addtime desc LIMIT 5   [ RunTime:0.0010s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '11' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 35 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '35' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 35 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '34' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 34 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '33' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 33 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 32 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '32' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 32 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article` WHERE `hot` = 0 ORDER BY addtime desc LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article` WHERE `hot` = 1 ORDER BY addtime asc LIMIT 8   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /settings/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /settings/js/jquery.cookies.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /settings/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /Public/theme/layout/plugins/images/datepicker_t.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /Public/theme/layout/plugins/images/datepicker_r.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /Public/theme/layout/plugins/images/datepicker_b.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /Public/theme/layout/plugins/images/datepicker_tl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /Public/theme/layout/plugins/images/datepicker_bl.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /Public/theme/layout/plugins/images/datepicker_l.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /Public/theme/layout/plugins/images/datepicker_tr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /Public/theme/layout/plugins/images/datepicker_br.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /settings/images/trans.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-26T09:25:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-26T09:26:57+08:00 ] 127.0.0.1 /settings/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:28:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `blog_friendlink`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `blog_article` ORDER BY addtime desc LIMIT 5   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '11' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 35 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '35' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 35 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '34' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 34 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '33' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 33 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 32 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '32' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 32 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article` WHERE `hot` = 0 ORDER BY addtime desc LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article` WHERE `hot` = 1 ORDER BY addtime asc LIMIT 8   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-26T09:28:04+08:00 ] 127.0.0.1 /settings/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:28:04+08:00 ] 127.0.0.1 /settings/js/jquery.cookies.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:28:04+08:00 ] 127.0.0.1 /settings/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:28:04+08:00 ] 127.0.0.1 /settings/images/trans.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-04-26T09:28:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_friendlink` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `blog_friendlink`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `blog_article` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `blog_article_content` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `blog_article_cate` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `blog_upload` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `blog_article` ORDER BY addtime desc LIMIT 5   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '11' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 11 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 35 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '35' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 35 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '34' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 34 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '33' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 33 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `content` FROM `blog_article_content` WHERE `id` = 32 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `catename` FROM `blog_article_cate` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `imgurl` FROM `blog_upload` WHERE `itemid` = '32' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 32 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_article` WHERE `hot` = 0 ORDER BY addtime desc LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `blog_article` WHERE `hot` = 1 ORDER BY addtime asc LIMIT 8   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-26T09:28:19+08:00 ] 127.0.0.1 /settings/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:28:19+08:00 ] 127.0.0.1 /settings/js/jquery.cookies.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:28:19+08:00 ] 127.0.0.1 /settings/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:28:19+08:00 ] 127.0.0.1 /settings/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T09:28:19+08:00 ] 127.0.0.1 /settings/images/trans.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-26T10:02:03+08:00 ] 127.0.0.1 /settings/js/jquery.cookies.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T10:02:03+08:00 ] 127.0.0.1 /settings/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T10:02:03+08:00 ] 127.0.0.1 /settings/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T10:47:21+08:00 ] 127.0.0.1 /settings/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T10:47:21+08:00 ] 127.0.0.1 /settings/js/jquery.cookies.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T10:47:21+08:00 ] 127.0.0.1 /settings/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T12:14:36+08:00 ] 127.0.0.1 /settings/js/jquery.cookies.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T12:14:36+08:00 ] 127.0.0.1 /settings/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+
+[ 2016-04-26T12:14:36+08:00 ] 127.0.0.1 /settings/js/main.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Settings
+

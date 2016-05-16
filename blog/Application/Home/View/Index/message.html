@@ -1,0 +1,172 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf8">
+    <title>个人博客</title>
+    <meta name="keywords" content="个人博客模板,博客模板,响应式" />
+    <meta name="description" content="如影随形主题的个人博客模板，神秘、俏皮。" />
+    <link href="/blog/Public/css/base.css" rel="stylesheet">
+    <link href="/blog/Public/css/about.css" rel="stylesheet">
+    <link href="/blog/Public/css/media.css" rel="stylesheet">
+    <link rel="stylesheet" href="/blog/Public/css/rl_exp.css" />
+    <link rel="shortcut icon" href="/blog/Public/images/bitbug_favicon.ico" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <!--[if lt IE 9]>
+    <script src="/blog/Public/js/modernizr.js"></script>
+
+    <![endif]-->
+    <script src="/blog/Public/js/jquery.min.js"></script>
+    <script src="/blog/Public/js/jquery.pager.js"></script>
+    <style type="text/css">
+        input[type="text"], input[type="email"], textarea {
+            background: transparent none repeat scroll 0 0;
+            border: 1px solid #3BBCB5;
+            display: block;
+            margin-top: 10px;
+            margin-left: 20px;
+            padding: 12px 15px;
+            width: 80%; }
+        input[type="submit"]:hover {
+            background: #3BBCB5 none repeat scroll 0 0;
+            border-color: #3BBCB5;
+            color: #333;
+            transition: background 0.5s linear 0s;
+        }
+        input[type="submit"] {
+            background: transparent none repeat scroll 0 0;
+            border: 1px solid #3BBCB5;
+            font-weight: bold;
+            padding: 10px;
+            margin-top: 10px;margin-left: 20px;
+            margin-bottom: 10px;
+            transition: background 0.5s linear 0s;
+            width: 85%;
+        }
+        .message_list{height: 100px;border-bottom:1px solid #E6E6E6;float: left;margin-bottom: 20px}
+        .face{float: left;margin-right: 15px;    height: 100px;
+            padding-top: 20px;}
+        .list{float: left;width: 555px}
+        .clear{clear:both;} /* 清除浮动 */
+        dt{color: red;height: 20px}
+        dd{margin-bottom: 8px;margin-top: 8px}
+        .wb_tool{margin-top: 5px}
+        .biaoqing{margin-left: 20px;margin-right: 50px}
+        dd img{display: inline-block}
+
+        .pages a{margin: 20px 5px 20px 0px;text-align: center;}
+        .pages .on{background:#3BBCB5;color:#FFF;}
+        .pages a{padding:2px 10px;color:#878787;border:1px solid #DDD;background:#FFF;font-size:14px;font-family:Arial, Helvetica, sans-serif;}
+        .pages a:hover{background:#3BBCB5;color:#FFF;}
+        .clear{clear:both;} /* 清除浮动 */
+
+        .wb_tool a{margin-left: 15px}
+        #rl_bq{left: 214.5px !important;top: 268px !important;}
+        #rl_exp_btn{margin-left:20px }
+
+
+    </style>
+
+</head>
+<body>
+<div class="ibody">
+    <include file='Common:header'/>
+    <article>
+        <h3 class="about_h">您现在的位置是：<a href="/">首页</a>><a href="1/">留言板</a></h3>
+        <div class="about">
+            <h2>Give me a message</h2>
+            <ul>
+                <div class="block-content text-center">
+                    <div class="container"  id="xm">
+                        <div class="row">
+                            <div class="col-md-6 wow animated fadeInLeft"  id="comment">
+                                <form class="contact-form" action="{:U('Message/index')}" method="post">
+                                    <input type="text" name="name" placeholder="名字" required>
+                                    <input type="email" name="email" placeholder="邮箱" required>
+                                    <textarea rows="5" name="message" placeholder="说点什么吧..." id="rl_exp_input" required></textarea>
+                                    <a href="javascript:void(0);" id="rl_exp_btn">表情</a>
+                                    <div class="rl_exp" id="rl_bq" style="display:none;">
+                                        <ul class="rl_exp_tab clearfix">
+                                            <li><a href="javascript:void(0);" class="selected">默认</a></li>
+                                            <!-- <li><a href="javascript:void(0);">拜年</a></li>
+                                            <li><a href="javascript:void(0);">浪小花</a></li>
+                                            <li><a href="javascript:void(0);">暴走漫画</a></li> -->
+                                        </ul>
+                                        <ul class="rl_exp_main clearfix rl_selected"></ul>
+                                        <!-- <ul class="rl_exp_main clearfix" style="display:none;"></ul>
+                                        <ul class="rl_exp_main clearfix" style="display:none;"></ul>
+                                        <ul class="rl_exp_main clearfix" style="display:none;"></ul> -->
+                                        <a href="javascript:void(0);" class="close">×</a>
+                                    </div>
+                            </div>
+                            <input type="submit" value="提交">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
+                <script type="text/javascript" src="/blog/Public/js/rl_exp.js"></script>
+                <script type="text/javascript">
+                    $(function(){
+                    });
+                </script>
+
+            </ul>
+            <h2>The Message list</h2>
+            <div class="bianli">
+                    <div class="message_list">
+                        <div class="face"><a href=""><img src="/blog/Public/images/face.jpg" alt=""></a></div>
+                        <div class="list">
+                            <dl>
+                                <dt>名字</dt>
+                                <dd>内容</dd>
+                            </dl>
+                            <div class="wb_tool">
+                                <span>时间</span>
+                                <a href="javascript:;" class="dianji" data-id="">评论</a>
+                                <a href="javascript:;">回复</a>
+                            </div>
+
+                        </div>
+                        <div class="pinglun" style="display:none">
+                            <input type="text" class="pincontent">
+                            <input type="hidden" id="mid" value="">
+                            <input type="submit" class="okpinglun" value="提交">
+                        </div>
+                    </div>
+
+            </div>
+            <div class="clear"></div>
+            <div class="reserve_page" id="pager">
+            </div>
+
+
+        </div>
+    </article>
+    <aside>
+        <div class="avatar"><a href="about.html"><span>关于我</span></a></div>
+        <div class="topspaceinfo">
+            <h1 id="dianji">执子之手，与子偕老</h1>
+            <p>于千万人之中，我遇见了我所遇见的人....</p>
+        </div>
+        <div class="about_c">
+            <p>网名：七年</p>
+            <p>职业：PHP程序猿 </p>
+            <p>籍贯：广东省—肇庆市</p>
+            <p>电话：13005571789</p>
+            <p>邮箱：1350495119@qq.com</p>
+            <p><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=65GDhJ6HnoSagoqFjKuNhJOGioKHxYiEhg" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_22.png"/></a></p>
+
+        </div>
+    </aside>
+
+    <script src="/blog/Public/js/silder.js"></script>
+    <div class="clear"></div>
+    <!-- 清除浮动 -->
+</div>
+
+
+</body>
+</html>

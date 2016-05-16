@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf8">
+<title>如影随形--慢生活</title>
+<meta name="keywords" content="个人博客模板,博客模板,响应式，慢生活，如影随形" />
+<meta name="description" content="如影随形主题的个人博客模板，神秘、俏皮。慢生活，新闻" />
+<link href="/Public/css/base.css" rel="stylesheet">
+<link href="/Public/css/style.css" rel="stylesheet">
+<link href="/Public/css/media.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<!--[if lt IE 9]>
+<script src="/Public/js/modernizr.js"></script>
+<![endif]-->
+    <style>
+        #pagers{width: 480px;margin: 0px auto}
+        .newblog p{width: 410px}
+        a.readmore{    background: #e41635;
+            color: #fff;
+            padding: 5px 10px;
+            float: right;
+            margin: 20px 0 0 0;
+            font-weight:normal !important;}
+    </style>
+</head>
+<body>
+<div class="ibody">
+<include file='Common:header'/>
+  <article>
+    <h2 class="about_h">您现在的位置是：<a href="/">首页</a>><a href="/n.html">慢生活</a></h2>
+    <div class="bloglist">
+        <volist name="list" id="v">
+            <div class="newblog">
+                <ul>
+                    <h3><a href="/na/id/{$v['id']}.html">{$v['title']|iconv_substr=0,25,'utf-8'}</a></h3>
+                    <div class="autor">
+                        <span>作者：{$v['author']}</span>
+                        <span>分类：【<a href="javascript:;">{$v['cate']}</a>】</span>
+                        <span>浏览（<a href="javascript:;">{$v['countclick']}</a>）</span>
+                        <span>评论（<!-- UYAN COUNT BEGIN -->
+<a href="/na/id/{$v['id']}" id="uyan_count_unit"></a>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2077742"></script>
+<!-- UYAN COUNT END -->）</span>
+                    </div>
+                    <p>
+                        {$v['content']|iconv_substr=0,100,'utf-8'} <a href="/na/id/{$v['id']}.html" target="_blank" class="readmore">阅读全文&gt;&gt;</a>
+                    </p>
+                </ul>
+                <figure>
+                    <if condition="$v['thumb']">
+                        <img src="{$v['thumb']}" >
+                    <else />
+                        <img src="__PUBLIC__/images/01.jpg" >
+                    </if>
+                </figure>
+                <div class="dateview">{$v['time']}</div>
+            </div>
+        </volist>
+
+
+    </div>
+      <div class="reserve" id="pagers">
+          {$page}
+      </div>
+  </article>
+    <include file='News:right'/>
+</div>
+</body>
+</html>

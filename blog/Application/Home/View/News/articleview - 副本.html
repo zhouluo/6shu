@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>如影随形--{$article['title']}</title>
+    <meta name="keywords" content="个人博客模板,博客模板,响应式--{$article['title']},{$article['key']}" />
+    <meta name="description" content="如影随形主题的个人博客模板，神秘、俏皮。--{$article['title']},{$article['key']}" />
+    <link href="/Public/css/base.css" rel="stylesheet">
+    <link href="/Public/css/style.css" rel="stylesheet">
+    <link href="/Public/css/media.css" rel="stylesheet">
+    <link rel="stylesheet" href="/Public/css/rl_exp.css" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <!--[if lt IE 9]>
+    <script src="/Public/js/modernizr.js"></script>
+    <![endif]-->
+    <script src="/Public/js/jquery.min.js"></script>
+    <script type="text/javascript" src="http://qzonestyle.gtimg.cn/qzone/openapi/qc_loader.js" data-appid="101280326" data-redirecturi="REDIRECTURI" charset="utf-8"></script>
+    <script src="/Public/js/jquery.pager.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/Public/ueditor/third-party/SyntaxHighlighter/shCore.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Public/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css"/>
+    <style>
+        .rl_exp_item{margin-right: 0px !important;float: left !important;width: 27px !important;}
+    </style>
+</head>
+<body>
+<div class="ibody">
+    <include file='Common:header'/>
+    <article>
+        <h2 class="about_h">您现在的位置是：<a href="/">首页</a>><a href="/n.html">慢生活</a>><a href="/na/id/{$article['id']}.html">{$article['title']}</a></h2>
+        <div class="index_about">
+            <h2 class="c_titile">{$article['title']}</h2>
+            <p class="box_c">
+                <span class="d_time">发布时间：{:date('Y-m-d',$article['addtime'])}</span>
+                <span>编辑：{$article['author']}</span>
+                <span>浏览（{$article['countclick']}）</span>
+                <span>评论（
+                    <!-- UYAN COUNT BEGIN -->
+<a href="/na/id/{$article['id']}.html" id="uyan_count_unit"></a> ）
+
+<!-- UYAN COUNT END --></span>
+
+
+            </p>
+            <ul class="infos">
+                {$content['content']}
+                <if condition="$thumb['imgurl']">
+                    <p><img src="{$thumb['imgurl']}" alt="黑色Html5个人博客模板"></p>
+                </if>
+
+            </ul>
+            <div class="keybq">
+                <p><span>关键字词</span>：{$article['key']}</p>
+            </div>
+            <div class="nextinfo">
+                <p>上一篇：
+                    <if condition="$prex['id']">
+                        <a href="/na/id/{$prex['id']}.html">{$prex['title']}</a>
+                    <else />
+                        没有上一篇啦！
+                    </if>
+
+                </p>
+                <p>下一篇：
+                    <if condition="$next['id']">
+                        <a href="/na/id/{$next['id']}.html">{$next['title']}</a>
+                    <else />
+                        没有下一篇啦！
+                    </if>
+
+
+                </p>
+            </div>
+            <div class="otherlink">
+                <h2>评论</h2>
+               <!-- <div class="pinglun">
+                    <textarea rows="5" name="message" placeholder="说点什么吧..." id="rl_exp_input" required></textarea>
+                    <span style="padding-left: 22px">
+                        <a href="javascript:void(0);" id="rl_exp_btn">表情</span>
+                    <div class="rl_exp" id="rl_bq" style="display:none;">
+                        <ul class="rl_exp_tab clearfix">
+                            <li style="width: 0px;height: 0px;line-height: 0px"><a href="javascript:void(0);" class="selected">默认</a></li>
+                        </ul>
+                        <ul class="rl_exp_main clearfix rl_selected"></ul>
+                        <a href="javascript:void(0);" class="close">×</a>
+                    </div>
+                        <font style="margin-left: 320px">
+                            <input type="button" onclick="return okpinglun({$article['id']})" value="提交">
+                        </font>
+                    </p>
+
+
+                </div>-->
+                <!-- UY BEGIN -->
+                <div id="uyan_frame"></div>
+                <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2077742"></script>
+                <!-- UY END -->
+
+
+
+            </div>
+           <!-- <div class="bianli">
+                    <volist name="comment" id="v">
+                        <div class="message_list">
+                            <div class="face"><a href=""><img src="/Public/images/face.jpg" alt=""></a></div>
+                            <div class="list">
+                                <dl>
+                                    <dt>{$v['username']}</dt>
+                                    <dd>{$v['newcontent']}</dd>
+                                </dl>
+                                <div class="wb_tool">
+                                    <span>{$v['newtime']}</span>
+                                    <a href="javascript:;" class="dianji" data-id="{$v['id']}">评论( <if condition="!empty($v[contentcomment])"> {$v[contentcomment]}<else /> 0 </if> )</a>
+
+
+                                </div>
+                            <div class="clear"></div>
+                        </div>
+                    </volist>
+
+            </div>-->
+    </article>
+
+    <include file='News:right'/>
+
+</div>
+<script type="text/javascript" src="/Public/js/rl_exp.js"></script>
+<script type="text/javascript">
+    $(function(){
+    });
+
+    function okpinglun(id){
+
+        var url="{:U('News/articlecomment')}";
+        var content=$("#rl_exp_input").val();
+        if(content == ''){
+            $("#rl_exp_input").attr('placeholder','请输入评论内容')
+            return false;
+        }
+        $.ajax({
+            type:'post',
+            url: url,
+            data:{pinglungid:id,pincontent:pincontent},
+            success:function(data){
+                var datas = eval("("+data+")");
+                $("#bianli").append(datas['list']);
+            }
+        });
+    }
+</script>
+<script type="text/javascript">
+    //为了在编辑器之外能展示高亮代码
+    SyntaxHighlighter.highlight();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,3589 @@
+[ 2015-12-18T09:27:37+08:00 ] 127.0.0.1 /blog/Public/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:27:37+08:00 ] 127.0.0.1 /blog/Public/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:27:37+08:00 ] 127.0.0.1 /blog/Public/js/silder.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:27:37+08:00 ] 127.0.0.1 /blog/Public/css/media.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:29:58+08:00 ] 127.0.0.1 /blog/Public/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:29:58+08:00 ] 127.0.0.1 /blog/Public/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:29:58+08:00 ] 127.0.0.1 /blog/Public/js/silder.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:29:58+08:00 ] 127.0.0.1 /blog/Public/css/media.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:34+08:00 ] 127.0.0.1 /Public/images/bitbug_favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:31:34+08:00 ] 127.0.0.1 /Public/images/bitbug_favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/0.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/8.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/12.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/15.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/14.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/13.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/16.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024002s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/11.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/17.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/18.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/19.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/20.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/21.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/22.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/25.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/23.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/24.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/26.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/27.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/28.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/29.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/30.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/31.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/32.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/35.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/33.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/36.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/34.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:36+08:00 ] 127.0.0.1 /blog/Public/images/mr/37.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/41.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/43.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/38.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/40.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/42.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/39.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/44.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/47.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/45.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/46.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/48.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/49.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/50.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/51.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/52.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/53.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/55.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/57.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/59.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/61.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/64.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/65.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/63.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/67.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/66.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/69.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/71.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/72.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/73.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:31:37+08:00 ] 127.0.0.1 /blog/Public/images/mr/68.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/css/adminstyle.css?111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/image/dl2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/image/dl4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/css/adminstyle.css?111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/image/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/image/dl2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/image/dl_an.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/image/dl4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:33:43+08:00 ] 127.0.0.1 /blog/Public/blogadmin/image/dl3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Blog
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/css/adminstyle.css?111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/css/adminstyle.css?111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/image/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl_an.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:35:43+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/css/adminstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/css/adminstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/image/bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl_an.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:20+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:21+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:36:34+08:00 ] 127.0.0.1 /Public/blogadmin/image/dl2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:37:27+08:00 ] 127.0.0.1 /Public/blogadmin/css/adminstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038003s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:09+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:10+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:11+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:11+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:11+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:19+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:38:20+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:13+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:14+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:14+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:14+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:14+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:39:41+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:32+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:32+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:32+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:32+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:33+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:33+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:33+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:33+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:40:35+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:41:17+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:41:17+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:41:17+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:41:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:41:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:41:18+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:41:20+08:00 ] 127.0.0.1 /newblog/Public/images/face.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/daterangepicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/jquery-ui-1.10.3.custom.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/chosen.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/ueditor/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/ueditor/ueditor.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/ace.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/ace-rtl.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/colorpicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/bootstrap-timepicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/datepicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/ace-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/ueditor/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/date-time/bootstrap-timepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/date-time/daterangepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap-colorpicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/fuelux/fuelux.spinner.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.099006s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/date-time/bootstrap-datepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.autosize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.maskedinput.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.inputlimiter.1.3.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/date-time/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.079004s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap-tag.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.knob.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/ueditor/ueditor.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/chosen.jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/ueditor/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/ace-rtl.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/ace-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/css/ace.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/chosen.jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/fuelux/fuelux.spinner.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/date-time/bootstrap-datepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/date-time/bootstrap-timepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/date-time/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/date-time/daterangepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap-colorpicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.knob.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.autosize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.inputlimiter.1.3.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.maskedinput.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap-tag.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T09:42:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:47+08:00 ] 127.0.0.1 /Public/blogadmin/css/adminstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T10:11:47+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2015-12-18T10:11:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:11:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:06+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:09+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T10:12:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:06:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2015-12-18T14:06:06+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2015-12-18T14:08:43+08:00 ] 127.0.0.1 /Public/blogadmin/css/adminstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023002s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:55+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:08:56+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:18+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:09:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:41+08:00 ] 127.0.0.1 /Public/blogadmin/css/adminstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:15:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T14:24:29+08:00 ] 127.0.0.1 /Public/image/upload.png%20no-repeat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T14:24:34+08:00 ] 127.0.0.1 /Public/image/upload.png%20no-repeat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T14:24:53+08:00 ] 127.0.0.1 /Public/blogadmin/image/upload.png%20no-repeat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T14:24:56+08:00 ] 127.0.0.1 /Public/blogadmin/image/upload.png%20no-repeat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T16:25:23+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:57+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:31:58+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:21+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024600s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:28+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:29+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:32:37+08:00 ] 127.0.0.1 /Public/blogadmin/css/prettify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T16:32:37+08:00 ] 127.0.0.1 /Public/blogadmin/js/prettify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T16:32:37+08:00 ] 127.0.0.1 /Public/blogadmin/js/prettify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T16:41:02+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:03+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:41:08+08:00 ] 127.0.0.1 /Public/blogadmin/css/prettify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T16:41:08+08:00 ] 127.0.0.1 /Public/blogadmin/js/prettify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:19+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:20+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T16:42:24+08:00 ] 127.0.0.1 /Public/blogadmin/css/prettify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T16:42:24+08:00 ] 127.0.0.1 /Public/blogadmin/js/prettify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T16:42:25+08:00 ] 127.0.0.1 /Public/blogadmin/js/prettify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T17:55:15+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:15+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:16+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:17+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:17+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:17+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:55:17+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:12+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:13+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:14+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:14+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:14+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:14+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:14+08:00 ] 127.0.0.1 /newblog/Public/blogadmin/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Newblog
+
+[ 2015-12-18T17:56:21+08:00 ] 127.0.0.1 /Public/blogadmin/css/prettify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T17:56:21+08:00 ] 127.0.0.1 /Public/blogadmin/js/prettify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-18T17:56:21+08:00 ] 127.0.0.1 /Public/blogadmin/js/prettify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+

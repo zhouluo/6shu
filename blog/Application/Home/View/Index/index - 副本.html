@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf8">
+    <meta name="baidu-site-verification" content="eQvF9EsG5Q" />
+<title>如影随形--home</title>
+<meta name="keywords" content="个人博客模板,博客模板,响应式" />
+<meta name="description" content="如影随形主题的个人博客模板，神秘、俏皮。" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href="/Public/css/base.css" rel="stylesheet">
+<link href="/Public/css/index.css" rel="stylesheet">
+<link href="/Public/css/media.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<!--[if lt IE 9]>
+<script src="/Public/js/modernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+<div class="ibody">
+<include file='Common:header'/>
+  <article>
+    <div class="banner">
+      <ul class="texts">
+        <p>The best life is use of willing attitude, a happy-go-lucky life. </p>
+        <p>最好的生活是用心甘情愿的态度，过随遇而安的生活。</p>
+      </ul>
+    </div>
+    <div class="bloglist">
+      <h2>
+        <p><span>推荐</span>文章</p>
+      </h2>
+      <volist name="list" id="v">
+        <div class="blogs">
+        <h3><a href="/na/id/{$v['id']}.html">{$v['title']|iconv_substr=0,25,'utf-8'}</a></h3>
+        <figure>
+            <if condition="$v['thumb']">
+                <img src="{$v['thumb']}" >
+            <else />
+                <img src="__PUBLIC__/images/01.jpg" >
+            </if>
+
+        </figure>
+        <ul>
+            {$v['content']|iconv_substr=0,150,'utf-8'}
+          <a href="/na/id/{$v['id']}.html" class="readmore">阅读全文&gt;&gt;</a>
+        </ul>
+        <p class="autor">
+            <span>作者：{$v['author']}</span>
+            <span>分类：【<a href="javascript:;">{$v['cate']}</a>】</span>
+            <span>浏览（<a href="javascript:;">{$v['countclick']}</a>）</span>
+            <span>评论（<!-- UYAN COUNT BEGIN -->
+<a href="/na/id/{$v['id']}" id="uyan_count_unit"></a>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2077742"></script>
+<!-- UYAN COUNT END -->）</span>
+        </p>
+        <div class="dateview">{$v['time']}</div>
+      </div>
+      </volist>
+
+    </div>
+  </article>
+  <aside>
+    <div class="avatar"><a href="/a"><span>关于我</span></a></div>
+    <div class="topspaceinfo">
+      <h1>执子之手，与子偕老</h1>
+      <p>于千万人之中，我遇见了我所遇见的人....</p>
+    </div>
+    <div class="about_c">
+      <p>网名：七年</p>
+      <p>职业：PHP程序猿 </p>
+      <p>籍贯：广东省—肇庆市</p>
+      <p>电话：13005571789</p>
+      <p>邮箱：1350495119@qq.com</p>
+    </div>
+    <div class="bdsharebuttonbox"><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_more" data-cmd="more"></a></div>
+    <div class="tj_news">
+      <h2>
+        <p class="tj_t1">最新文章</p>
+      </h2>newlist
+      <ul>
+        <volist name="newlist" id="vo">
+          <li><a href="/na/id/{$vo['id']}.html">{$vo['title']}</a></li>
+        </volist>
+      </ul>
+      <h2>
+        <p class="tj_t2">推荐文章</p>
+      </h2>
+      <ul>
+        <volist name="tuijian" id="vo">
+          <li><a href="/na/id/{$vo['id']}.html">{$vo['title']}</a></li>
+        </volist>
+      </ul>
+    </div>
+    <include file='Common:footer'/>
+  </aside>
+  <script src="/Public/js/silder.js"></script>
+    <div style="margin-left: 840px;width: 20px"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1256829366'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1256829366%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></div>
+  <div class="clear"></div>
+  <!-- 清除浮动 -->
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>跳转页面</title>
+<script src="__PUBLIC__/js/jquery.min.js" type="text/javascript"></script>
+<style>
+*{margin:0;padding:0;font-family:"Microsoft Yahei";}
+.popup{width:1000px;height:200px;border:1px dashed #888;position:fixed;_position:absolute;top:50%;left:50%;margin-left:-500px;margin-top:-100px;}
+.icon_tick,.icon_error,.icon_plaint{background:url(/Proxymanager/Static/image/icon.png);display:block;width:105px;height:105px;margin-top:40px;float:left;margin-left:350px;_margin-left:175px;}
+.icon_tick{background-position:0 0;}
+.icon_error{background-position:0 -105px;}
+.icon_plaint{background-position:0 -210px;}
+.popup_content{display:block;float:left;margin:50px 0 0 20px;}
+.popup_content span{color:#333333;font-size:30px;}
+.popup_content p{color:#666;font-size:18px;margin-top:5px;}
+.popup_content a:link,.popup_content a:visited{color:#666;margin-left:5px;text-decoration:none;}
+.popup_content a:hover{text-decoration:underline;}
+.popup_content em{font-style:normal;color:#333;}
+</style>
+</head>
+
+<body>
+<div class="popup error" id="popup">
+	<i class="icon_error"></i>
+	<div class="popup_content"><span class="error"><?php echo($error); ?></span><p>页面自动<a id="href" href="<?php echo($jumpUrl); ?>">跳转</a></p></div>
+</div>
+
+</body>
+</html>

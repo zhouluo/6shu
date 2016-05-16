@@ -1,0 +1,513 @@
+[ 2015-12-16T09:57:53+08:00 ] ::1 /newblog/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `blog_message`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-16T09:57:59+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-16T16:11:46+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0010s ]
+SQL: INSERT INTO `blog_message` (`username`,`email`,`content`,`addtime`,`status`) VALUES ('fzzadmin','45645@qq.com','sdfsdf[委屈]','1450253506','2') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:11:48+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0100s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:11:58+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `blog_message` (`username`,`email`,`content`,`addtime`,`status`) VALUES ('sdsdf','1350495119@qq.com','sadfsdf[太开心]','1450253518','2') [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:11:59+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:12:12+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `blog_message` (`username`,`email`,`content`,`addtime`,`status`) VALUES ('newadmin','45645@qq.com','sdfsdfsdf[亲亲]','1450253532','2') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-16T16:12:14+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:12:26+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:45:56+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-16T16:46:36+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:47:24+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0100s ]
+SQL: INSERT INTO `blog_message` (`username`,`email`,`content`,`addtime`,`status`) VALUES ('proxyadmin','1350495119@qq.com','sdfs[挤眼]','1450255644','2') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:47:25+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:47:38+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0090s ]
+SQL: INSERT INTO `blog_message` (`username`,`email`,`content`,`addtime`,`status`) VALUES ('sdfsdf','sd@qq.com','sdfsdfsdf[酷]','1450255658','2') [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:47:40+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-16T16:47:56+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-16T16:48:59+08:00 ] ::1 /newblog/index.php/Home/Message/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_message` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `blog_comment` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_message` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_message` WHERE `status` = 1 LIMIT 0,3   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 14 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `blog_comment` WHERE `wid` = 15 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+NOTIC: [8] Use of undefined constant contentcomment - assumed 'contentcomment' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 173 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 182 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 196 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 203 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant pagecount - assumed 'pagecount' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 207 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 209 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\newblog\Runtime\Cache\Home\455a6242d1c94ccc41106a388080363b.php 第 229 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
